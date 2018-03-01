@@ -29,3 +29,4 @@ Most of these packages replace more standard tools because (for less savvy linux
 | ranger | easy to use file manager | [x] | [x] | ? - to call help
 | mc | midnight commander - file manager | [x] | [x] |
 | lnav | log file analyser | [x] | [x]
+| nmap | comfortable port scanning | [x] | [x] |
